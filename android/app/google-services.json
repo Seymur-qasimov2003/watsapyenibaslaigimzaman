@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "979363142547",
+    "project_id": "chatapp-46ea5",
+    "storage_bucket": "chatapp-46ea5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:979363142547:android:945616933dd88b8071a666",
+        "android_client_info": {
+          "package_name": "com.example.watsapcloneee"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "979363142547-6871ba2am12ot11k44cp7dtujcv5o16s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDu9yk5L0DTxsh06GG3xRc5QEv3ygJQnq0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "979363142547-6871ba2am12ot11k44cp7dtujcv5o16s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
